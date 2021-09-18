@@ -13,7 +13,10 @@
   "keywords": [
     "test",
     "npm"
-  ],
+  ],  
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
   "author": "Display Table",
   "license": "MIT",
   "bugs": {
