@@ -1,5 +1,5 @@
 {
-  "name": "@miguelfernandez008/test-npm-package",
+  "name": "@displaytable/test-npm-package",
   "version": "1.0.0",
   "description": "A test package to npm",
   "main": "index.js",
@@ -13,10 +13,7 @@
   "keywords": [
     "test",
     "npm"
-  ],  
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/"
-  },
+  ],
   "author": "Display Table",
   "license": "MIT",
   "bugs": {
